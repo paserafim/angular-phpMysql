@@ -1,6 +1,6 @@
 # Angulardatatables
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0. and uses PHP/MySQL backend to provide some data to the datatable.
 
 ## Development server
 
